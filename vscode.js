@@ -48,8 +48,7 @@
     "editor.formatOnType": true,
     "editor.letterSpacing": 0.5,
     "editor.tabSize": 2,
-    "editor.minimap.enabled": true,
-    "editor.minimap.showSlider": "always",
+    "editor.minimap.enabled": false
     "editor.fontWeight": "400",
     "editor.formatOnPaste": false,
     // /////////////////////////////////////////
