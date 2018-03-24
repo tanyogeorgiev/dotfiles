@@ -1,8 +1,8 @@
 /* Styles in here based on Wes Bos's Cobalt2 custom styles */
 
 .monaco-shell {
-  font-family: "Operator Mono", "Fira code", "Consolas", monospace;
-  letter-spacing: .5px;
+  font-family:   'Fira Code','Consolas', monospace;
+  letter-spacing: .3px;
 }
 
 /*
@@ -141,5 +141,5 @@
 }
 
 .monaco-workbench .tabs-container .tab * {
-  font-style: italic;
+ // font-style: italic;
 }
